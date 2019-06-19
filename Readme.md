@@ -12,7 +12,7 @@
 
  第三次作业 <https://github.com/lixingyuan1998/sportclub_3>
 
-第四次作业
+第四次作业<https://github.com/lixingyuan1998/sportclub_4>
 
 springcloud 练习 <https://github.com/lixingyuan1998/springcloud_test>
 
@@ -148,6 +148,8 @@ public class MemberRouter {
 }
 ```
 
+![1560951756737](src/img/member.jpg)
+
 WorkerHandler
 
 ```java
@@ -197,7 +199,7 @@ public class WorkerRouter {
 }
 ```
 
-
+![1560951756737](src/img/workers.jpg)
 
 启动mongodb
 
@@ -245,3 +247,9 @@ spring:
 使用Jpa查询member表中对象，然后通过角色role进行权限分配：
 
 ![oauth2_1](src/img/oauth2_1.png)
+
+
+
+![1560951756737](src/img/oth1.jpg)
+
+![1560951756737](src/img/oth2.jpg)
