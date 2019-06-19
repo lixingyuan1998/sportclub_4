@@ -18,6 +18,10 @@ springcloud 练习 <https://github.com/lixingyuan1998/springcloud_test>
 
 
 
+![1560951756737](src/img/flux.jpg)
+
+
+
 GymHandler
 
 ```java
